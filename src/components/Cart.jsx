@@ -78,7 +78,7 @@ const Cart = ({ cart, updateCart }) => {
                     <th>Product</th>
                     <th>Details</th>
                     <th>Quantity</th>
-                    <th>Unit Price</th>
+                    <th>Price</th>
                     <th>Total</th>
                     <th>Remove</th>
                   </tr>
