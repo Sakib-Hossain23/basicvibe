@@ -113,7 +113,7 @@ const DownFooter = ({ cart, setIsRegisterModalOpen }) => {
           }`}
         >
           <img
-            src="img/shoes logo.jpg"
+            src="img/shoes logo.png"
             alt="Fashion Logo"
             style={{
               width: "44px",
@@ -139,7 +139,7 @@ const DownFooter = ({ cart, setIsRegisterModalOpen }) => {
           }`}
         >
           <img
-            src="img/prom hairstyles.jpg"
+            src="img/prom hairstyles.png"
             alt="Fashion Logo"
             style={{
               width: "44px",
@@ -165,7 +165,7 @@ const DownFooter = ({ cart, setIsRegisterModalOpen }) => {
           }`}
         >
           <img
-            src="img/ms1 logo.jpg"
+            src="img/ms1 logo.png"
             alt="Fashion Logo"
             style={{
               width: "44px",
