@@ -10,18 +10,18 @@ const categories = [
   },
   {
     name: "Men's Shoes",
-    image: "/img/shoes logo.jpg",
+    image: "/img/shoes logo.png",
     link: "/men's-shoes",
   },
   {
     name: "Hairstyles",
-    image: "/img/prom hairstyles.jpg",
+    image: "/img/prom hairstyles.png",
     link: "/hairstyles",
   },
 
   {
     name: "Nails",
-    image: "/img/ms1 logo.jpg",
+    image: "/img/ms1 logo.png",
     link: "/nails",
   },
 ];
