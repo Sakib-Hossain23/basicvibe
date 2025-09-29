@@ -871,7 +871,7 @@ const ModalPage = ({ addToCart, products }) => {
                 src={
                   alertMessage === "Successfully added product"
                     ? "../img/right2.png"
-                    : "../img/alert2.jpg"
+                    : "../img/alert2.png"
                 }
                 alt="Alert Icon"
               />
