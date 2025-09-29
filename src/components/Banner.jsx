@@ -2,7 +2,7 @@ import React from "react";
 import "../assets/styles/banner.css";
 
 const Banner = () => {
-  const images = ["img/12.png", "img/13.png"];
+  const images = ["img/12.jpg", "img/13.jpg"];
 
   return (
     <div className="wrapper">
