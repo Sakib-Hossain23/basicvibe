@@ -7,25 +7,25 @@ const Carousel = () => {
 
   const sliderItems = [
     {
-      src: "img/13.png",
+      src: "img/13.jpg",
       alt: "banner",
       title: "",
       description: "",
     },
     {
-      src: "img/14.png",
+      src: "img/14.jpg",
       alt: "banner",
       title: "",
       description: "",
     },
     {
-      src: "img/12.png",
+      src: "img/12.jpg",
       alt: "banner",
       title: "",
       description: "",
     },
     {
-      src: "img/15.png",
+      src: "img/15.jpg",
       alt: "banner",
       title: "",
       description: "",
@@ -105,11 +105,11 @@ const Carousel = () => {
 
         <div className="side-section">
           <div className="side-item">
-            <img src="img/12.png" alt="Sony WF-1000XM5" />
+            <img src="img/12.jpg" alt="Sony WF-1000XM5" />
             <h3>Newly Added</h3>
           </div>
           <div className="side-item">
-            <img src="img/13.png" alt="Galaxy Watch Ultra" />
+            <img src="img/13.jpg" alt="Galaxy Watch Ultra" />
             <h3>New Arrival</h3>
             <p style={{ display: "none" }}>Galaxy AI+ is here</p>
           </div>
