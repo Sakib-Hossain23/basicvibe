@@ -36,8 +36,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms93.png",
-      images: ["/img/ms93.png", "/img/ms94.jpg", "/img/ms95.jpg"],
+      image: "/img/ms93.jpg",
+      images: ["/img/ms93.jpg", "/img/ms94.jpg", "/img/ms95.jpg"],
 
       model: {},
 
@@ -60,8 +60,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3450"],
       oldPrice: [""],
-      image: "/img/ms96.png",
-      images: ["/img/ms96.png", "/img/ms97.jpg", "/img/ms98.jpg"],
+      image: "/img/ms96.jpg",
+      images: ["/img/ms96.jpg", "/img/ms97.jpg", "/img/ms98.jpg"],
 
       model: {},
 
@@ -83,8 +83,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms99.png",
-      images: ["/img/ms99.png", "/img/ms100.jpg", "/img/ms101.jpg"],
+      image: "/img/ms99.jpg",
+      images: ["/img/ms99.jpg", "/img/ms100.jpg", "/img/ms101.jpg"],
 
       model: {},
 
@@ -139,8 +139,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms125.png",
-      images: ["/img/ms125.png", "/img/ms126.jpg", "/img/ms127.jpg"],
+      image: "/img/ms125.jpg",
+      images: ["/img/ms125.jpg", "/img/ms126.jpg", "/img/ms127.jpg"],
 
       model: {},
 
@@ -165,8 +165,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳450"],
       oldPrice: [""],
-      image: "/img/ms119.png",
-      images: ["/img/ms119.png", "/img/ms120.jpg", "/img/ms121.jpg"],
+      image: "/img/ms119.jpg",
+      images: ["/img/ms119.jpg", "/img/ms120.jpg", "/img/ms121.jpg"],
 
       model: {},
 
@@ -191,8 +191,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳460"],
       oldPrice: [""],
-      image: "/img/ms122.png",
-      images: ["/img/ms122.png", "/img/ms121.jpg", "/img/ms124.jpg"],
+      image: "/img/ms122.jpg",
+      images: ["/img/ms122.jpg", "/img/ms121.jpg", "/img/ms124.jpg"],
 
       model: {},
 
@@ -218,8 +218,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms111.png",
-      images: ["/img/ms111.png", "/img/ms112.jpg", "/img/ms113.jpg"],
+      image: "/img/ms111.jpg",
+      images: ["/img/ms111.jpg", "/img/ms112.jpg", "/img/ms113.jpg"],
 
       model: {},
 
@@ -242,8 +242,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms102.png",
-      images: ["/img/ms102.png", "/img/ms103.jpg", "/img/ms104.jpg"],
+      image: "/img/ms102.jpg",
+      images: ["/img/ms102.jpg", "/img/ms103.jpg", "/img/ms104.jpg"],
 
       model: {},
 
@@ -265,8 +265,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3450"],
       oldPrice: [""],
-      image: "/img/ms105.png",
-      images: ["/img/ms105.png", "/img/ms106.jpg", "/img/ms107.jpg"],
+      image: "/img/ms105.jpg",
+      images: ["/img/ms105.jpg", "/img/ms106.jpg", "/img/ms107.jpg"],
 
       model: {},
 
@@ -287,8 +287,8 @@ function MenClothes({ addToCart }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms108.png",
-      images: ["/img/ms108.png", "/img/ms109.jpg", "/img/ms110.jpg"],
+      image: "/img/ms108.jpg",
+      images: ["/img/ms108.jpg", "/img/ms109.jpg", "/img/ms110.jpg"],
 
       model: {},
 
@@ -311,8 +311,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms128.png",
-      images: ["/img/ms128.png", "/img/ms129.jpg", "/img/ms130.jpg"],
+      image: "/img/ms128.jpg",
+      images: ["/img/ms128.jpg", "/img/ms129.jpg", "/img/ms130.jpg"],
 
       model: {},
 
@@ -335,8 +335,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms131.png",
-      images: ["/img/ms131.png", "/img/ms132.jpg", "/img/ms133.jpg"],
+      image: "/img/ms131.jpg",
+      images: ["/img/ms131.jpg", "/img/ms132.jpg", "/img/ms133.jpg"],
 
       model: {},
 
@@ -360,8 +360,8 @@ function MenClothes({ addToCart }) {
       subBrand: "men's t-shirts",
       price: ["৳350"],
       oldPrice: [""],
-      image: "/img/ms134.png",
-      images: ["/img/ms134.png", "/img/ms135.jpg", "/img/ms136.jpg"],
+      image: "/img/ms134.jpg",
+      images: ["/img/ms134.jpg", "/img/ms135.jpg", "/img/ms136.jpg"],
 
       model: {},
 
@@ -642,7 +642,7 @@ function MenClothes({ addToCart }) {
           <div className="custom-alert">
             <img
               className="alert-image"
-              src="./img/right.png"
+              src="./img/right.jpg"
               alt="Success Icon"
             />
             <div className="alert-message">Successfully added product</div>
