@@ -115,7 +115,7 @@ const Navbar = ({
         >
           <div className="navbar-logo">
             <img
-              src="/img/bvvv.jpg"
+              src="/img/bvvv.png"
               alt="GoGadget Store Logo"
               className="logo-tilt"
               style={{
@@ -240,7 +240,7 @@ const Navbar = ({
                 }}
               >
                 <img
-                  src="img/bvvv.jpg"
+                  src="img/bvvv.png"
                   alt="Fashion Logo"
                   style={{
                     width: "30px",
