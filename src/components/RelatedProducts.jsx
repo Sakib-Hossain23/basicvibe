@@ -313,8 +313,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms93.png",
-      images: ["/img/ms93.png", "/img/ms94.jpg", "/img/ms95.jpg"],
+      image: "/img/ms93.jpg",
+      images: ["/img/ms93.jpg", "/img/ms94.jpg", "/img/ms95.jpg"],
 
       model: {},
 
@@ -337,8 +337,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3450"],
       oldPrice: [""],
-      image: "/img/ms96.png",
-      images: ["/img/ms96.png", "/img/ms97.jpg", "/img/ms98.jpg"],
+      image: "/img/ms96.jpg",
+      images: ["/img/ms96.jpg", "/img/ms97.jpg", "/img/ms98.jpg"],
 
       model: {},
 
@@ -360,8 +360,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms99.png",
-      images: ["/img/ms99.png", "/img/ms100.jpg", "/img/ms101.jpg"],
+      image: "/img/ms99.jpg",
+      images: ["/img/ms99.jpg", "/img/ms100.jpg", "/img/ms101.jpg"],
 
       model: {},
 
@@ -416,8 +416,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms125.png",
-      images: ["/img/ms125.png", "/img/ms126.jpg", "/img/ms127.jpg"],
+      image: "/img/ms125.jpg",
+      images: ["/img/ms125.jpg", "/img/ms126.jpg", "/img/ms127.jpg"],
 
       model: {},
 
@@ -442,8 +442,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳450"],
       oldPrice: [""],
-      image: "/img/ms119.png",
-      images: ["/img/ms119.png", "/img/ms120.jpg", "/img/ms121.jpg"],
+      image: "/img/ms119.jpg",
+      images: ["/img/ms119.jpg", "/img/ms120.jpg", "/img/ms121.jpg"],
 
       model: {},
 
@@ -468,8 +468,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳460"],
       oldPrice: [""],
-      image: "/img/ms122.png",
-      images: ["/img/ms122.png", "/img/ms121.jpg", "/img/ms124.jpg"],
+      image: "/img/ms122.jpg",
+      images: ["/img/ms122.jpg", "/img/ms121.jpg", "/img/ms124.jpg"],
 
       model: {},
 
@@ -495,8 +495,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms111.png",
-      images: ["/img/ms111.png", "/img/ms112.jpg", "/img/ms113.jpg"],
+      image: "/img/ms111.jpg",
+      images: ["/img/ms111.jpg", "/img/ms112.jpg", "/img/ms113.jpg"],
 
       model: {},
 
@@ -519,8 +519,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms102.png",
-      images: ["/img/ms102.png", "/img/ms103.jpg", "/img/ms104.jpg"],
+      image: "/img/ms102.jpg",
+      images: ["/img/ms102.jpg", "/img/ms103.jpg", "/img/ms104.jpg"],
 
       model: {},
 
@@ -542,8 +542,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3450"],
       oldPrice: [""],
-      image: "/img/ms105.png",
-      images: ["/img/ms105.png", "/img/ms106.jpg", "/img/ms107.jpg"],
+      image: "/img/ms105.jpg",
+      images: ["/img/ms105.jpg", "/img/ms106.jpg", "/img/ms107.jpg"],
 
       model: {},
 
@@ -564,8 +564,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Jacket",
       price: ["৳3350"],
       oldPrice: [""],
-      image: "/img/ms108.png",
-      images: ["/img/ms108.png", "/img/ms109.jpg", "/img/ms110.jpg"],
+      image: "/img/ms108.jpg",
+      images: ["/img/ms108.jpg", "/img/ms109.jpg", "/img/ms110.jpg"],
 
       model: {},
 
@@ -588,8 +588,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms128.png",
-      images: ["/img/ms128.png", "/img/ms129.jpg", "/img/ms130.jpg"],
+      image: "/img/ms128.jpg",
+      images: ["/img/ms128.jpg", "/img/ms129.jpg", "/img/ms130.jpg"],
 
       model: {},
 
@@ -612,8 +612,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳320"],
       oldPrice: [""],
-      image: "/img/ms131.png",
-      images: ["/img/ms131.png", "/img/ms132.jpg", "/img/ms133.jpg"],
+      image: "/img/ms131.jpg",
+      images: ["/img/ms131.jpg", "/img/ms132.jpg", "/img/ms133.jpg"],
 
       model: {},
 
@@ -637,8 +637,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "men's t-shirts",
       price: ["৳350"],
       oldPrice: [""],
-      image: "/img/ms134.png",
-      images: ["/img/ms134.png", "/img/ms135.jpg", "/img/ms136.jpg"],
+      image: "/img/ms134.jpg",
+      images: ["/img/ms134.jpg", "/img/ms135.jpg", "/img/ms136.jpg"],
 
       model: {},
 
@@ -687,8 +687,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳4100"],
       oldPrice: [""],
-      image: "/img/ms55.png",
-      images: ["/img/ms55.png", "/img/ms56.jpg", "/img/ms57.jpg"],
+      image: "/img/ms55.jpg",
+      images: ["/img/ms55.jpg", "/img/ms56.jpg", "/img/ms57.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -740,8 +740,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Dress Shoes",
       price: ["৳3340"],
       oldPrice: [""],
-      image: "/img/ms90.png",
-      images: ["/img/ms90.png", "/img/ms91.jpg", "/img/ms92.jpg"],
+      image: "/img/ms90.jpg",
+      images: ["/img/ms90.jpg", "/img/ms91.jpg", "/img/ms92.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -765,8 +765,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳3390"],
       oldPrice: [""],
-      image: "/img/ms66.png",
-      images: ["/img/ms66.png", "/img/ms67.jpg", "/img/ms68.jpg"],
+      image: "/img/ms66.jpg",
+      images: ["/img/ms66.jpg", "/img/ms67.jpg", "/img/ms68.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -791,8 +791,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳6690"],
       oldPrice: [""],
-      image: "/img/ms69.png",
-      images: ["/img/ms69.png", "/img/ms70.jpg", "/img/ms71.jpg"],
+      image: "/img/ms69.jpg",
+      images: ["/img/ms69.jpg", "/img/ms70.jpg", "/img/ms71.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -817,8 +817,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳9950"],
       oldPrice: [""],
-      image: "/img/ms72.png",
-      images: ["/img/ms72.png", "/img/ms73.jpg", "/img/ms74.jpg"],
+      image: "/img/ms72.jpg",
+      images: ["/img/ms72.jpg", "/img/ms73.jpg", "/img/ms74.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -842,8 +842,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Dress Shoes",
       price: ["৳9920"],
       oldPrice: [""],
-      image: "/img/ms46.png",
-      images: ["/img/ms46.png", "/img/ms47.png", "/img/ms48.png"],
+      image: "/img/ms46.jpg",
+      images: ["/img/ms46.jpg", "/img/ms47.jpg", "/img/ms48.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -867,8 +867,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Dress Shoes",
       price: ["৳4430"],
       oldPrice: [""],
-      image: "/img/ms49.png",
-      images: ["/img/ms49.png", "/img/ms50.png", "/img/ms51.png"],
+      image: "/img/ms49.jpg",
+      images: ["/img/ms49.jpg", "/img/ms50.jpg", "/img/ms51.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -891,8 +891,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳4420"],
       oldPrice: [""],
-      image: "/img/ms63.png",
-      images: ["/img/ms63.png", "/img/ms64.jpg", "/img/ms65.jpg"],
+      image: "/img/ms63.jpg",
+      images: ["/img/ms63.jpg", "/img/ms64.jpg", "/img/ms65.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -916,8 +916,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳3480"],
       oldPrice: [""],
-      image: "/img/ms75.png",
-      images: ["/img/ms75.png", "/img/ms76.jpg", "/img/ms77.jpg"],
+      image: "/img/ms75.jpg",
+      images: ["/img/ms75.jpg", "/img/ms76.jpg", "/img/ms77.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -942,8 +942,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳2250"],
       oldPrice: [""],
-      image: "/img/ms78.png",
-      images: ["/img/ms78.png", "/img/ms79.jpg", "/img/ms80.jpg"],
+      image: "/img/ms78.jpg",
+      images: ["/img/ms78.jpg", "/img/ms79.jpg", "/img/ms80.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -967,8 +967,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳3550"],
       oldPrice: [""],
-      image: "/img/ms81.png",
-      images: ["/img/ms81.png", "/img/ms82.jpg", "/img/ms83.jpg"],
+      image: "/img/ms81.jpg",
+      images: ["/img/ms81.jpg", "/img/ms82.jpg", "/img/ms83.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -991,8 +991,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳2260"],
       oldPrice: [""],
-      image: "/img/ms84.png",
-      images: ["/img/ms84.png", "/img/ms85.jpg", "/img/ms86.jpg"],
+      image: "/img/ms84.jpg",
+      images: ["/img/ms84.jpg", "/img/ms85.jpg", "/img/ms86.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -1016,8 +1016,8 @@ function RelatedProducts({ addToCart, currentProduct }) {
       subBrand: "Men's Sneakers",
       price: ["৳3650"],
       oldPrice: [""],
-      image: "/img/ms87.png",
-      images: ["/img/ms87.png", "/img/ms88.jpg", "/img/ms89.jpg"],
+      image: "/img/ms87.jpg",
+      images: ["/img/ms87.jpg", "/img/ms88.jpg", "/img/ms89.jpg"],
       sizes: ["US 7", "US 8", "US 9", "US 10", "US 11", "US 12"],
 
       model: {},
@@ -2095,7 +2095,7 @@ function RelatedProducts({ addToCart, currentProduct }) {
             <div className="custom-alert">
               <img
                 className="alert-image"
-                src="./img/right.png"
+                src="./img/right.jpg"
                 alt="Success Icon"
               />
               <div className="alert-message">Successfully added product</div>
@@ -2154,7 +2154,7 @@ function RelatedProducts({ addToCart, currentProduct }) {
           <div className="custom-alert">
             <img
               className="alert-image"
-              src="./img/right.png"
+              src="./img/right.jpg"
               alt="Success Icon"
             />
             <div className="alert-message">Successfully added product</div>
