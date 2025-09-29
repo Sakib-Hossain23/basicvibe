@@ -33,13 +33,13 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["157000৳", "175000৳", "195000৳"],
       oldPrice: ["165000৳", "185000৳", "205000৳"],
-      image: "/img/ip 16 ultramarine.png",
+      image: "/img/ip 16 ultramarine.jpg",
       images: [
-        "/img/ip 16 ultramarine.png",
-        "/img/ip 16 pink.png",
-        "/img/ip 16 teal.png",
-        "/img/ip 16 white.png",
-        "/img/ip 16 black.png",
+        "/img/ip 16 ultramarine.jpg",
+        "/img/ip 16 pink.jpg",
+        "/img/ip 16 teal.jpg",
+        "/img/ip 16 white.jpg",
+        "/img/ip 16 black.jpg",
       ],
       model: {
         phoneName: "iPhone 16",
@@ -69,13 +69,13 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["170000৳", "188000৳", "208000৳"],
       oldPrice: ["178000৳", "198000৳", "218000৳"],
-      image: "/img/ip 16 pink.png",
+      image: "/img/ip 16 pink.jpg",
       images: [
-        "/img/ip 16 pink.png",
-        "/img/ip 16 ultramarine.png",
-        "/img/ip 16 teal.png",
-        "/img/ip 16 white.png",
-        "/img/ip 16 black.png",
+        "/img/ip 16 pink.jpg",
+        "/img/ip 16 ultramarine.jpg",
+        "/img/ip 16 teal.jpg",
+        "/img/ip 16 white.jpg",
+        "/img/ip 16 black.jpg",
       ],
       model: {
         phoneName: "iPhone 16 Plus",
@@ -105,12 +105,12 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["190000৳", "210000৳", "235000৳", "260000৳"],
       oldPrice: ["200000৳", "220000৳", "245000৳", "270000৳"],
-      image: "/img/ip 16 pro black titanium.png",
+      image: "/img/ip 16 pro black titanium.jpg",
       images: [
-        "/img/ip 16 pro black titanium.png",
-        "/img/ip 16 pro desert titanium.png",
-        "/img/ip 16 pro natural titanium.png",
-        "/img/ip 16 pro white titanium.png",
+        "/img/ip 16 pro black titanium.jpg",
+        "/img/ip 16 pro desert titanium.jpg",
+        "/img/ip 16 pro natural titanium.jpg",
+        "/img/ip 16 pro white titanium.jpg",
       ],
       model: {
         phoneName: "iPhone 16 Pro",
@@ -145,12 +145,12 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["210000৳", "230000৳", "255000৳", "280000৳"],
       oldPrice: ["220000৳", "240000৳", "265000৳", "290000৳"],
-      image: "/img/ip 16 pro desert titanium.png",
+      image: "/img/ip 16 pro desert titanium.jpg",
       images: [
-        "/img/ip 16 pro desert titanium.png",
-        "/img/ip 16 pro natural titanium.png",
-        "/img/ip 16 pro white titanium.png",
-        "/img/ip 16 pro black titanium.png",
+        "/img/ip 16 pro desert titanium.jpg",
+        "/img/ip 16 pro natural titanium.jpg",
+        "/img/ip 16 pro white titanium.jpg",
+        "/img/ip 16 pro black titanium.jpg",
       ],
       model: {
         phoneName: "iPhone 16 Pro Max",
@@ -189,12 +189,12 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["95000৳", "105000৳", "120000৳"],
       oldPrice: ["100000৳", "110000৳", "125000৳"],
-      image: "/img/ip 15 black.png",
+      image: "/img/ip 15 black.jpg",
       images: [
-        "/img/ip 15 black.png",
-        "/img/ip 15 blue.png",
-        "/img/ip 15 green.png",
-        "/img/ip 15 pink.png",
+        "/img/ip 15 black.jpg",
+        "/img/ip 15 blue.jpg",
+        "/img/ip 15 green.jpg",
+        "/img/ip 15 pink.jpg",
       ],
       model: {
         phoneName: "iPhone 15",
@@ -226,13 +226,13 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["105000৳", "115000৳", "130000৳"],
       oldPrice: ["110000৳", "120000৳", "135000৳"],
-      image: "/img/ip 15 plus green.png",
+      image: "/img/ip 15 plus green.jpg",
       images: [
-        "/img/ip 15 plus green.png",
-        "/img/ip 15 plus blue.png",
-        "/img/ip 15 plus black.png",
-        "/img/ip 15 plus pink.png",
-        "/img/ip 15 plus yellow.png",
+        "/img/ip 15 plus green.jpg",
+        "/img/ip 15 plus blue.jpg",
+        "/img/ip 15 plus black.jpg",
+        "/img/ip 15 plus pink.jpg",
+        "/img/ip 15 plus yellow.jpg",
       ],
       model: {
         phoneName: "iPhone 15 Plus",
@@ -264,12 +264,12 @@ function Products({ addToCart }) {
       brand: "Apple",
       price: ["135000৳", "145000৳", "160000৳", "175000৳"],
       oldPrice: ["145000৳", "155000৳", "170000৳", "180000৳"],
-      image: "/img/ip 15 pro natural titanium.png",
+      image: "/img/ip 15 pro natural titanium.jpg",
       images: [
-        "/img/ip 15 pro natural titanium.png",
-        "/img/ip 15 pro black titanium.png",
-        "/img/ip 15 pro blue titanium.png",
-        "/img/ip 15 pro white titanium.png",
+        "/img/ip 15 pro natural titanium.jpg",
+        "/img/ip 15 pro black titanium.jpg",
+        "/img/ip 15 pro blue titanium.jpg",
+        "/img/ip 15 pro white titanium.jpg",
       ],
       model: {
         phoneName: "iPhone 15 Pro",
@@ -301,12 +301,12 @@ function Products({ addToCart }) {
       brand: "Samsung",
       price: ["220000৳", "230000৳", "240000৳", "250000৳"],
       oldPrice: ["225000৳", "235000৳", "245000৳", "255000৳"],
-      image: "/img/sg gray.png",
+      image: "/img/sg gray.jpg",
       images: [
-        "/img/sg gray.png",
-        "/img/sg black.png",
-        "/img/sg violet.png",
-        "/img/sg blue.png",
+        "/img/sg gray.jpg",
+        "/img/sg black.jpg",
+        "/img/sg violet.jpg",
+        "/img/sg blue.jpg",
       ],
       model: {
         phoneName: "Galaxy S24 Ultra",
@@ -336,8 +336,8 @@ function Products({ addToCart }) {
       brand: "Vivo",
       price: ["120000৳", "125000৳", "130000৳"],
       oldPrice: ["125000৳", "130000৳", "135000৳"],
-      image: "/img/v black.png",
-      images: ["/img/v black.png", "/img/v blue.png", "/img/v orange.png"],
+      image: "/img/v black.jpg",
+      images: ["/img/v black.jpg", "/img/v blue.jpg", "/img/v orange.jpg"],
       model: {
         phoneName: "Vivo X100 Pro",
         GB: "256GB",
@@ -364,11 +364,11 @@ function Products({ addToCart }) {
       brand: "Oppo",
       price: ["135000৳", "140000৳", "145000৳"],
       oldPrice: ["140000৳", "145000৳", "150000৳"],
-      image: "/img/oppo black.png",
+      image: "/img/oppo black.jpg",
       images: [
-        "/img/oppo black.png",
-        "/img/oppo blue.png",
-        "/img/oppo gold.png",
+        "/img/oppo black.jpg",
+        "/img/oppo blue.jpg",
+        "/img/oppo gold.jpg",
       ],
       model: {
         phoneName: "Oppo Find X7 Ultra",
@@ -396,8 +396,8 @@ function Products({ addToCart }) {
       brand: "Samsung",
       price: ["220000৳", "230000৳", "240000৳"],
       oldPrice: ["225000৳", "235000৳", "245000৳"],
-      image: "/img/gz black.png",
-      images: ["/img/gz black.png", "/img/gz cream.png", "/img/gz blue.png"],
+      image: "/img/gz black.jpg",
+      images: ["/img/gz black.jpg", "/img/gz cream.jpg", "/img/gz blue.jpg"],
       model: {
         phoneName: "Galaxy Z Fold 5",
         GB: "512GB",
@@ -424,8 +424,8 @@ function Products({ addToCart }) {
       brand: "Google",
       price: ["110000৳", "120000৳", "130000৳"],
       oldPrice: ["120000৳", "130000৳", "140000৳"],
-      image: "/img/gp blue.png",
-      images: ["/img/gp blue.png", "/img/gp black.png", "/img/gp white.png"],
+      image: "/img/gp blue.jpg",
+      images: ["/img/gp blue.jpg", "/img/gp black.jpg", "/img/gp white.jpg"],
       model: {
         phoneName: "Google Pixel 8 Pro",
         GB: "512GB",
@@ -453,7 +453,7 @@ function Products({ addToCart }) {
       price: ["75000৳", "80000৳", "85000৳"],
       oldPrice: ["80000৳", "85000৳", "90000৳"],
       image: "/img/or1.jpg",
-      images: ["/img/or1.jpg", "/img/or blue.png", "/img/or silver.png"],
+      images: ["/img/or1.jpg", "/img/or blue.jpg", "/img/or silver.jpg"],
       model: {
         phoneName: "Oppo Reno 11 Pro",
         GB: "256GB",
@@ -688,7 +688,7 @@ function Products({ addToCart }) {
           <div className="custom-alert">
             <img
               className="alert-image"
-              src="./img/right.png"
+              src="./img/right.jpg"
               alt="Success Icon"
             />
             <div className="alert-message">Successfully added product</div>
