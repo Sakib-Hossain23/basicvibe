@@ -57,7 +57,7 @@ const Cart = ({ cart, updateCart }) => {
         {cart.length === 0 ? (
           <div className="empty-cart">
             <img
-              src="./img/Empty Cart.jpg"
+              src="./img/Empty Cart.png"
               alt="Empty Cart"
               className="empty-cart-image"
             />
