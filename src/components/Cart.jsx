@@ -57,7 +57,7 @@ const Cart = ({ cart, updateCart }) => {
         {cart.length === 0 ? (
           <div className="empty-cart">
             <img
-              src="./img/Empty Cart.png"
+              src="./img/Empty Cart.jpg"
               alt="Empty Cart"
               className="empty-cart-image"
             />
@@ -196,7 +196,7 @@ const Cart = ({ cart, updateCart }) => {
                           aria-label="Remove product"
                         >
                           <img
-                            src="./img/remove-icon.png"
+                            src="./img/remove-icon.jpg"
                             alt="Remove Product"
                             className="delete-icon"
                           />
