@@ -860,7 +860,7 @@ const ModalPage = ({ addToCart, products }) => {
                 className="alert-image"
                 style={
                   alertMessage === "Successfully added product"
-                    ? { width: "35px", height: "35px", marginLeft: "5px" } // For right2.jpg
+                    ? { width: "35px", height: "35px", marginLeft: "5px" } // For right2.png
                     : {
                         width: "35px",
                         height: "35px",
@@ -870,7 +870,7 @@ const ModalPage = ({ addToCart, products }) => {
                 }
                 src={
                   alertMessage === "Successfully added product"
-                    ? "../img/right2.jpg"
+                    ? "../img/right2.png"
                     : "../img/alert2.jpg"
                 }
                 alt="Alert Icon"
