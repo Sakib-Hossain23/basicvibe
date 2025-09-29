@@ -578,7 +578,7 @@ function HairStyles2({ addToCart }) {
           <div className="custom-alert">
             <img
               className="alert-image"
-              src="./img/right.png"
+              src="./img/right.jpg"
               alt="Success Icon"
             />
             <div className="alert-message">Successfully added product</div>
