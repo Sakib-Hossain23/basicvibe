@@ -196,7 +196,7 @@ const Cart = ({ cart, updateCart }) => {
                           aria-label="Remove product"
                         >
                           <img
-                            src="./img/remove-icon.jpg"
+                            src="./img/remove-icon.png"
                             alt="Remove Product"
                             className="delete-icon"
                           />
